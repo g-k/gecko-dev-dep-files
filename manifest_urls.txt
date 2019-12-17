@@ -97,6 +97,8 @@ https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/cast
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/cc/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/cexpr/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/cfg-if/Cargo.toml
+https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/chardetng/Cargo.toml
+https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/chardetng_c/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/chrono/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/clang-sys/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/clap/Cargo.toml
@@ -599,6 +601,8 @@ https://raw.githubusercontent.com/mozilla/gecko-dev/master/taskcluster/docker/in
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/webkit/PerformanceTests/Speedometer/resources/todomvc/architecture-examples/vuejs-cli/yarn.lock
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/gfx/wr/ci-scripts/wrupdater/requirements.txt
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/security/manager/tools/crtshToIdentifyingStruct/requirements.txt
+https://raw.githubusercontent.com/mozilla/gecko-dev/master/taskcluster/docker/system-symbols-mac/requirements.txt
+https://raw.githubusercontent.com/mozilla/gecko-dev/master/taskcluster/docker/system-symbols-win/requirements.txt
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/taskcluster/docker/visual-metrics/requirements.txt
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/python/Click/docs/requirements.txt
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/python/distro/dev-requirements.txt
