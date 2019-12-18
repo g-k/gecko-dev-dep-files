@@ -268,7 +268,6 @@ https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/nix/
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/nodrop/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/nom/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/num-bigint/Cargo.toml
-https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/num-derive-0.2.5/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/num-derive/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/num-integer/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/num-iter/Cargo.toml
@@ -283,8 +282,6 @@ https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/opaq
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/ordered-float/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/owning_ref/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/packed_simd/Cargo.toml
-https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/packed_struct/Cargo.toml
-https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/packed_struct_codegen/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/parity-wasm/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/parking_lot/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/parking_lot_core/Cargo.toml
@@ -311,8 +308,6 @@ https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/proc
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/pulse-ffi/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/pulse/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/quick-error/Cargo.toml
-https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/quote-0.3.15/Cargo.toml
-https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/quote-0.6.11/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/quote/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/rand-0.6.5/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/rand/Cargo.toml
@@ -391,10 +386,7 @@ https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/stor
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/string/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/strsim/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/svg_fmt/Cargo.toml
-https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/syn-0.11.11/Cargo.toml
-https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/syn-0.15.30/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/syn/Cargo.toml
-https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/synom/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/synstructure/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/target-lexicon/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/tempfile/Cargo.toml
@@ -435,7 +427,6 @@ https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/unic
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/unicode-normalization/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/unicode-segmentation/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/unicode-width/Cargo.toml
-https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/unicode-xid-0.0.4/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/unicode-xid-0.1.0/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/unicode-xid/Cargo.toml
 https://raw.githubusercontent.com/mozilla/gecko-dev/master/third_party/rust/unreachable/Cargo.toml
